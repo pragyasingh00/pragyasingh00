@@ -1,40 +1,66 @@
-# Hi there! 👋 I'm Pragya Singh
-
 <div align="center">
 
-### Robotics • AI • IoT • Embedded Systems • Computer Vision
+# Hi 👋, I'm Pragya Singh
 
-*Engineering student passionate about building intelligent machines that solve real-world problems.*
+### 🚀 Robotics Engineer | AI & IoT Developer | Embedded Systems Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Robots;AI+%7C+Robotics+%7C+IoT+%7C+Computer+Vision;ESP32+%7C+Arduino+%7C+Python+%7C+C%2B%2B;Always+Learning+Something+New+🚀" />
+
+<p>
+Building intelligent machines that bridge the gap between hardware and software.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=pragyasingh00&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-I am an engineering student with a strong interest in **Robotics, Artificial Intelligence, Embedded Systems, IoT, and Computer Vision**. I enjoy designing hardware from scratch, integrating intelligent software, and transforming ideas into practical prototypes.
+I'm an Engineering student passionate about developing intelligent robotic systems, AI-powered automation, IoT solutions, and embedded technologies.
 
-My goal is to build autonomous systems that improve agriculture, surveillance, healthcare, and automation while continuously expanding my knowledge of robotics and software engineering.
+I enjoy transforming innovative ideas into real-world engineering projects by integrating electronics, mechanical design, programming, and artificial intelligence.
+
+My interests include:
+
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- 📷 Computer Vision
+- 🌐 Internet of Things (IoT)
+- ⚙️ Embedded Systems
+- 🚁 Autonomous Drones
+- 🦾 Human-Centered Robotics
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Robotics & Embedded
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Robotics & Embedded
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![LoRa](https://img.shields.io/badge/LoRa-005BBB?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools
+---
+
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -43,78 +69,82 @@ My goal is to build autonomous systems that improve agriculture, surveillance, h
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Robotics Projects
 
-## 🤖 Robotics & AI
+## 🚁 Payload Quadcopter Drone
 
-### 🚁 Payload Quadcopter Drone *(In Development)*
-An autonomous heavy-lift quadcopter designed for payload transportation with modular architecture for future AI-assisted navigation and intelligent mission planning.
+A fully designed, built, and flight-tested heavy payload quadcopter developed for aerial transportation and surveillance applications.
 
-**Planned Features**
-- Heavy payload capability
-- GPS navigation
-- Autonomous flight modes
-- Obstacle avoidance
-- Live FPV streaming
-- Return-to-Home
-- Expandable AI integration
+### Features
 
----
-
-### 🕷️ Spyder Surveillance Robot *(In Development)*
-
-A surveillance robot powered by ESP32-CAM for real-time monitoring and future AI-powered human recognition.
-
-**Features**
-
-- ESP32-CAM live video streaming
-- Pan-Tilt camera mechanism
-- Human recognition (planned)
-- Remote control
-- Modular AI architecture
-
----
-
-### 🌾 AgroSense AI Smart Irrigation *(In Development)*
-
-An intelligent irrigation system using IoT and wireless communication for automated water management.
-
-**Features**
-
-- Wireless irrigation
-- Soil moisture monitoring
-- AI/ML-based irrigation decision support
-- LoRa communication
-- Solar-ready architecture
-- Multi-zone irrigation
-- Mobile monitoring
-
----
-
-### 🦾 Prosthetic Arm *(In Development)*
-
-A robotic prosthetic arm that mimics natural human hand movements using embedded control systems.
-
-**Features**
-
-- Finger movement replication
-- Servo-controlled joints
-- Human hand gesture mimicry
-- Expandable EMG integration
-
----
-
-### 🚙 Heavy Duty RC Vehicle *(In Development)*
-
-A custom-built heavy-duty RC platform capable of carrying robotics payloads for outdoor testing.
-
-**Features**
-
-- High payload chassis
-- Aluminum body
-- Remote control
+- Heavy payload lifting capability
+- Stable flight control
+- Brushless propulsion system
+- Flight-tested prototype
+- Modular payload platform
+- FPV-ready design
 - Expandable autonomous navigation
-- Modular payload mounting
+- Future AI integration
+
+---
+
+## 🕷️ Spyder Surveillance Robot
+
+An intelligent surveillance robot capable of live video streaming, remote operation, and human recognition using ESP32-CAM.
+
+### Features
+
+- Live camera streaming
+- ESP32-CAM
+- Human recognition
+- Pan-Tilt camera
+- Wireless control
+- Real-time monitoring
+
+---
+
+## 🌾 AgroSense AI – Smart Wireless Irrigation System
+
+An AI-powered IoT irrigation platform designed to automate agricultural irrigation while minimizing water consumption.
+
+### Features
+
+- Wireless irrigation automation
+- AI-assisted irrigation decisions
+- Machine Learning integration
+- Soil moisture monitoring
+- LoRa communication
+- Automatic pump control
+- Multi-zone irrigation
+- Remote monitoring
+
+---
+
+## 🦾 Prosthetic Arm
+
+A robotic prosthetic arm developed to mimic natural human hand movements through embedded control and mechanical actuation.
+
+### Features
+
+- Human hand movement replication
+- Servo-controlled fingers
+- Embedded control
+- Lightweight mechanical structure
+- Expandable sensor support
+
+---
+
+## 🚙 Heavy Duty RC Vehicle
+
+A custom-built RC platform engineered for carrying heavy robotics payloads and field testing.
+
+### Features
+
+- Heavy-duty chassis
+- High payload capacity
+- Aluminum frame
+- Wireless remote control
+- Modular platform
 
 ---
 
@@ -122,104 +152,125 @@ A custom-built heavy-duty RC platform capable of carrying robotics payloads for 
 
 ### 🛒 Shopping Cart System
 
-A Java-based shopping cart application demonstrating object-oriented programming concepts.
+Java-inspired shopping cart application demonstrating software design principles.
 
-🔗 https://github.com/pragyasingh00/shopping_cart
+🔗 Repository:
+https://github.com/pragyasingh00/shopping_cart
 
 ---
 
 ### 💬 Trackila Chatbot
 
-A chatbot developed as part of a collaborative project.
+Team-developed conversational chatbot.
 
-🔗 https://github.com/pragyasingh00/trackila-chatbot-team-8-
+🔗 Repository:
+https://github.com/pragyasingh00/trackila-chatbot-team-8-
 
 ---
 
 ### 🤖 Chetna Chatbot
 
-A conversational chatbot project built using Python.
+AI chatbot developed using Python.
 
-🔗 https://github.com/pragyasingh00/chetna-chatbot-trackila-
+🔗 Repository:
+https://github.com/pragyasingh00/chetna-chatbot-trackila-
 
 ---
 
-### 📁 Python Mini Utilities
+### 🐍 Python Mini Utilities
 
-A collection of beginner-friendly Python automation projects.
-
-Includes
+A collection of useful Python automation utilities including:
 
 - Contact Book
 - File Organizer
 - CLI To-Do List
 
-🔗 https://github.com/pragyasingh00/Python-Mini-Utilities
+🔗 Repository:
+https://github.com/pragyasingh00/Python-Mini-Utilities
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Exploring
 
 - Computer Vision
-- Embedded AI
 - OpenCV
+- Deep Learning
+- Embedded AI
 - ROS
-- Machine Learning
 - PCB Design
-- System Design
-- Data Structures & Algorithms
+- Autonomous Robotics
+- Advanced IoT Systems
 
 ---
 
-# 🎯 Goals
+# 🎯 Career Goals
 
-- Build impactful robotics systems
-- Publish complete hardware documentation
-- Contribute to Open Source
-- Improve software engineering skills
-- Secure Robotics / Embedded Systems / Software Engineering Internship
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pragyasingh00&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pragyasingh00&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyasingh00&layout=compact&theme=tokyonight&hide_border=true)
+- Build intelligent robotic systems
+- Develop AI-powered automation solutions
+- Contribute to impactful open-source projects
+- Advance in embedded systems and robotics
+- Pursue opportunities in Robotics, AI, and Software Engineering
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Statistics
 
-📧 Email: your-email@example.com
+<p align="center">
 
-💼 LinkedIn: Add your LinkedIn URL
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragyasingh00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🐙 GitHub: https://github.com/pragyasingh00
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyasingh00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pragyasingh00&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pragyasingh00&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragyasingh00&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+🐙 GitHub
+
+https://github.com/pragyasingh00
+
+💼 LinkedIn
+
+Add Your LinkedIn URL
+
+📧 Email
+
+Add Your Email
 
 ---
 
 <div align="center">
 
-### "Building intelligent machines that solve real-world problems."
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+*"Engineering is about solving real-world problems through innovation, creativity, and technology."*
 
 </div>
-
-<!--
-**pragyasingh00/pragyasingh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
