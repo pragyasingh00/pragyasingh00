@@ -257,13 +257,10 @@ https://github.com/pragyasingh00/Python-Mini-Utilities
 
 https://github.com/pragyasingh00
 
-💼 LinkedIn
-
-Add Your LinkedIn URL
 
 📧 Email
 
-Add Your Email
+singhpragyaa2007@gmail.com
 
 ---
 
